@@ -44,9 +44,7 @@ END
 
 ```
 ## OUTPUT(Ascending order)
-
-<img width="848" height="394" alt="Screenshot 2025-09-29 135345" src="https://github.com/user-attachments/assets/dd8f3eb3-e1d9-4807-80c5-48526c18a939" />
-
+<img width="848" height="363" alt="495071053-dd8f3eb3-e1d9-4807-80c5-48526c18a939" src="https://github.com/user-attachments/assets/dcc20e15-07fd-46c6-a925-51c7ab3c00b3" />
 
 ---
 
@@ -87,9 +85,7 @@ END
 
 ```
 ## OUTPUT(Descending order)
-
-<img width="824" height="397" alt="Screenshot 2025-09-29 135715" src="https://github.com/user-attachments/assets/105366d9-b1de-44d4-98af-7ee291048214" />
-
+<img width="824" height="367" alt="495071575-105366d9-b1de-44d4-98af-7ee291048214" src="https://github.com/user-attachments/assets/970762e5-079e-44a1-b5ae-735f126ae8ba" />
 
 ---
 ## RESULT:
